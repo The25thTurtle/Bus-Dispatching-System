@@ -1,11 +1,3 @@
-/*
-Class: CSE 1322L
-Section WJ2
-Term: Fall 2023
-Instructor: Justin McClung 
-Name: Aaron Luis Arroyo
-Lab#: Assignment2
-*/
 import java.util.Scanner;
 import java.util.ArrayList;
 
