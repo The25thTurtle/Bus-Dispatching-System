@@ -1,1 +1,1 @@
-# Bus-Dispatching-System
+The Bus Dispatching System is a Java application developed as an assignment for CSE 1322L during the Fall 2023 term. It enables users to manage buses and passengers through a menu-driven interface. Users can add or remove buses, add or remove passengers from buses, list passengers of a specific bus, list all buses in the dispatcher, requeue buses, transfer passengers between buses, and dispatch buses. The system demonstrates object-oriented programming concepts and dynamic data structure manipulation in Java.
